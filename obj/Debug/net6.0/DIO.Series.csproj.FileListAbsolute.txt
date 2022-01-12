@@ -1,0 +1,15 @@
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/supportsi/CursoDio/DIO.Series/bin/Debug/net6.0/DIO.Series
+/home/supportsi/CursoDio/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/supportsi/CursoDio/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/supportsi/CursoDio/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/home/supportsi/CursoDio/DIO.Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/home/supportsi/CursoDio/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/supportsi/CursoDio/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
